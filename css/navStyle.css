@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Shojumaru&display=swap');
+#nav_barra {
+    grid-area: navbar;
+    position: fixed;
+    top:0%;
+    right: initial;
+    z-index: 99;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    justify-items: center;
+    width: 100vw;
+    height: 3vh;
+    max-height: 30px;
+    max-width: 1366px;
+    margin: 0 auto;
+    background-color: #000000;
+    overflow: hidden;
+}
+/* SECTIOIN LOGO-LOGIN */
+#section_logo_login {
+    display: flex;
+    flex-wrap: nowrap;
+    flex: 1;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    justify-items: center;
+    max-width: 11vw;
+    max-height: 3vh;
+}
+.img_logo_peq {
+    display: flex;
+    width: 4vw;
+    height: 2.9vh;
+}
+#ol_login {
+    display: flex;
+    flex-wrap: nowrap;
+    max-width: 6vw;
+    max-height: 3vh;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    font-weight: 600;
+    gap: 0.8vw;
+}
+ 
+/* SECTION MENU */
+#section_menu {
+   display: flex;
+   align-content: center;
+   align-items: center;
+   justify-content: space-between;
+   justify-items: center;
+   max-width: 19vw;
+   max-height: 3vh;
+}
+#ol_menu {
+   display: flex;
+   flex-wrap: nowrap;
+   flex: 1;
+   gap: 1vw;
+}
+
+/* SECTION BUSCA */
+#section_busca {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    justify-items: center;
+    max-width: 15vw;
+    max-height: 3vh;
+}
+#form_busca {
+    display: flex;
+    gap: 1vw;
+}
+#input_busca {
+    display: flex;
+    background-color: #727272;
+}
+#input_busca:hover {
+    display: flex;
+    background-color: #ffffff;
+}
+#button_submit {
+    display: flex;
+    align-self: center;
+}

@@ -1,0 +1,67 @@
+<nome_anime>:
+
+<nome_completo_anime> Sinônimos:
+<span class="destaque">Sinônimos:</span>
+<span class="destaque">English:</span>
+<span class="destaque">Hepburn:</span>
+<span class="destaque">Japonês:</span>
+________________________________________________________________________________________________________________________
+<genero> Gêneros e Temas:
+
+________________________________________________________________________________________________________________________
+<descricao> Descrição:
+<span class="destaque">Descrição:</span> 
+
+Conteúdo completo em <a href="" alt="Wikipedia" target="_blank">Wikipedia</a>
+Conteúdo completo em <a href="" alt="MyAnimeList" target="_blank">MyAnimeList</a>
+
+______________________________________________________________________________________________________________________
+<personagens> Personagens Principal:
+
+________________________________________________________________________________________________________________________
+<series> Séries- Filmes - OVAs - ONAs - Especiais:
+<span class="destaque">Série:</span> 
+<span class="destaque">Série (Sinônimos):</span> 
+<span class="destaque">Enredo:</span>
+<span class="destaque">Episódios:</span>
+<span class="destaque">Duração(episódio):</span>
+<span class="destaque">Exib_inicio:</span>  
+<span class="destaque">Exib_fim:</span> 
+<span class="destaque">Trailer:</span> 
+
+<span class="destaque">OVA:</span>  
+<span class="destaque">OVA (Sinônimos):</span> 
+<span class="destaque">Enredo:</span>
+<span class="destaque">Episódios:</span>
+<span class="destaque">Duração(episódio):</span>
+<span class="destaque">Exib_inicio:</span> 
+<span class="destaque">Exib_fim:</span> 
+<span class="destaque">Trailer:</span> 
+
+<span class="destaque">Especial:</span> 
+<span class="destaque">Especial (Sinônimos):</span> 
+<span class="destaque">Enredo:</span> 
+<span class="destaque">Episódios:</span> 
+<span class="destaque">Duração(episódio):</span> 
+<span class="destaque">Exib_inicio:</span> 
+<span class="destaque">Exib_fim:</span> 
+<span class="destaque">Trailer:</span> 
+
+<span class="destaque">Filme (Anime):</span>  
+<span class="destaque">Filme (Sinônimos):</span> 
+<span class="destaque">Enredo:</span>
+<span class="destaque">Duração:</span>
+<span class="destaque">Exibido:</span>
+<span class="destaque">Trailer:</span> 
+________________________________________________________________________________________________________________________
+<direcao> Direção - Estúdio - Distribuição:
+<span class="destaque">Direção:</span>
+<span class="destaque">Produção:</span>
+<span class="destaque">Roteiro:</span>
+<span class="destaque">Musica:</span>
+<span class="destaque">Estúdio:</span>
+<span class="destaque">Licenciado:</span>
+<span class="destaque">Original network:</span>
+________________________________________________________________________________________________________________________
+<nota>De 1 a 10 o que eu achei do Anime
+

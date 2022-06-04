@@ -1,0 +1,129 @@
+body {
+	max-width: 1366px;
+    background-image: url("../imgs/software_3500x2329+terra_10.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.grid-conteiner_index {
+    display: grid;
+    grid-template-areas: 'navbar'
+                         'cabecalho'
+                         'main'
+                         'rodape';
+    grid-template-columns: minmax(auto-fit, 1366px);
+    grid-template-rows: 3.5vh 10vh 75vh 4vh;
+    width: 100%;
+    max-width: 1366px;
+/*    max-height: 1280px;*/
+/*    background-color: transparent;*/
+/*    background-image: url("../imgs/software_3500x2329+terra_10%.jpg");*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    color: #ffffff;
+}
+
+/*Definição dos Stylos do READER da index  */
+#header_cabec {
+    grid-area: cabecalho;
+    display: flex;
+    background-color: transparent;
+    width: 100%;
+    max-width: 60vw;
+    max-height: 12vw;
+    /*	height: calc(100vh - 1000px); */
+    margin-top: 1vh;
+}
+#div_text_esq {
+    display: flex;
+}
+#div_img_logo {
+    display: flex;
+    max-width: 14vw;
+    max-height: 8vh;
+}
+#img_logo_grand {
+    width: 100%;
+}
+#div_text_dir {
+    display: flex;
+}
+
+#main_princ { /* Configurações do MAIN da pagina */
+    grid-area: main;
+    display: grid;
+    grid-template-areas: 'btc ... anime'
+                         '... globo ...'
+                         'ti ... musica';
+    grid-template-columns: 17vw 17vw 17vw;
+    grid-template-rows: 25vh 25vh 25vh;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+/*    width: 100%;*/
+    max-height: inherit;
+    max-width: 1200px;
+    margin: 0 auto;
+/*
+    background-image: url("../imgs/software_1201x666.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+*/
+}
+#img_fundo_main {
+    width: 100%;
+    border-radius: 25px;    
+}
+.divs_main { /* Configuraçoes das DIVS do MAIN */
+    display: grid;
+    
+}
+#div_img_bitcoin {
+    display: grid;
+    grid-area: btc;
+    max-width: 300px;
+}
+#img_bitcoin {
+    width: 100%;
+}
+#div_img_ti {
+    display: grid;
+    grid-area: ti;
+    max-width: 300px;
+}
+#img_ti {
+    width: 100%;
+    border-radius: 40%;
+}
+#div_img_centro {
+    display: grid;
+    grid-area: globo;
+    border-radius: 50%;
+}
+#img_centro {
+    width: 100%;
+}
+#div_img_animes {
+    display: grid;
+    grid-area: anime;
+    max-width: 400px;
+}
+#img_animes {
+    width: 100%;
+
+}
+#div_img_musicas {
+    display: grid;
+    grid-area: musica;
+    max-height: 300px;
+}
+#img_musicas {
+    width: 100%;
+}

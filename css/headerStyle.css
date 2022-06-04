@@ -1,0 +1,29 @@
+@charset "utf-8";
+/*Definição dos Stylos dos READERs em geral */
+#header_cabec {
+    grid-area: cabecalho;
+    display: flex;
+    background-color: transparent;
+    width: 100%;
+    max-width: 60vw;
+    max-height: 12vw;
+    margin-top: 3vh;
+}
+
+#div_text_esq {
+    display: flex;
+}
+
+#div_img_logo {
+    display: flex;
+    width: 12vw;
+    height: 7vh;
+}
+#img_logo_grand {
+    width: 100%;
+}
+
+#div_text_dir {
+    display: flex;
+}
+

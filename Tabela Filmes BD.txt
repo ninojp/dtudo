@@ -1,0 +1,35 @@
+Tabela Filmes
+
+filmes_anime - (nome da tabela)
+
+(Campos)
+
+id_film
+
+nome_film
+
+nomecompleto_film
+
+genero_film
+
+descricao_film
+
+data_film
+
+series_film
+
+elenco_film
+
+direcao_film
+
+nota_film
+
+fotomini_film
+foto1_film
+foto2_film
+foto3_film
+
+
+
+
+

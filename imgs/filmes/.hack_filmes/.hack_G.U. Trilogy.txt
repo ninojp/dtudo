@@ -1,0 +1,52 @@
+<nome>:
+
+.hack//G.U. Trilogy
+
+---------------------------------------------------------------------------------------------------
+<nome_completo>:
+
+.hack//G.U. Trilogy
+Japanese: ドットハック G.U. Trilogy
+Hepburn: Dotto Hakku G.U. Trilogy
+
+---------------------------------------------------------------------------------------------------
+<genero>:
+
+Ação, Fantasia, Ficção Científica, Game
+
+---------------------------------------------------------------------------------------------------
+<descricao> / Enredo:
+
+.hack//G.U. Trilogy (Japanese: ドットハック G.U. Trilogy, Hepburn: Dotto Hakku G.U. Trilogy):
+ É uma animação em vídeo original (OVA) de anime CGI japonês de 2008, dirigida por Hiroshi Matsuyama baseada nos jogos da CyberConnect2 .hack//GU. Foi lançado em 25 de janeiro de 2008 em formato DVD e Blu-ray.
+(aqui foi categorizado como Filme por se tratar de um Longa metragem)
+Enredo:
+Em um jogo online popular chamado "The World", um jogador chamado Haseo procura por um Player Killer (PK) chamado Tri-Edge para salvar seu amigo, Shino, que foi PKed e ficou em coma na vida real como resultado. Um dia, ele encontra uma garota chamada Atoli, que usa o mesmo PC de Shino após um desentendimento com o superior de Atoli, Sakaki, sobre suas atividades no PKK. Haseo encontra seu ex-mestre da guilda, Ovan, que informa Haseo que Tri-Edge aparecerá novamente no local onde Shino foi PKed. Haseo luta contra o lutador, mas é derrotado e perde todos os poderes de seu PC...
+Conteúdo completo em <a href="https://en.wikipedia.org/wiki/.hack//G.U._Trilogy" alt="Wikipedia" target="_blank">Wikipedia</a>
+
+---------------------------------------------------------------------------------------------------
+<data>:
+
+Data de lançamento: 25 de janeiro de 2008 (Japão)
+Duração: 1 hora e 33 minutos 
+
+---------------------------------------------------------------------------------------------------
+<series>: LINKs para outros FILMEs /series
+<a href="https://localhost/dtudo/anime_detalhes.php?id=122">
+.hack// - LINK Series - OVAs - ONAs - Especiais</a>
+<a href="https://localhost/dtudo/filme_detalhes.php?id=2">
+.hack//The Movie - Link para o Filme </a>
+
+---------------------------------------------------------------------------------------------------
+<elenco> /personagem:
+
+Haseo, Ovan, Atoli, Shino, Azure Kite, Yowkow
+
+---------------------------------------------------------------------------------------------------
+Direção
+
+Hiroshi Matsuyama
+
+-------------------------------------------------------------------------------------
+<nota>:
+8.0

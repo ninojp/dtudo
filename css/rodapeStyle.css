@@ -1,0 +1,22 @@
+#footer_rodape {
+    grid-area: rodape;
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    flex: 1;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    font-size: 12px;
+    border: 1px dotted red;
+}
+#div_esquerda {
+    display: flex;
+}
+#div_centro {
+    display: flex;
+}
+#div_direita {
+    display: flex;
+}

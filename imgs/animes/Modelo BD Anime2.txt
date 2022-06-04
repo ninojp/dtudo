@@ -1,0 +1,75 @@
+<autor> Direção - Estúdio - Distribuição:
+Direção:
+Produção:
+Roteiro:
+Musica:
+Estúdio:
+Licenciado:
+Original network:
+________________________________________________________________________________________________________________________
+<nome_anime>:
+
+<nome_completo_anime>
+Sinônimos:
+English:
+Hepburn:
+Japonês:
+________________________________________________________________________________________________________________________
+<genero> Gêneros e Temas:
+
+________________________________________________________________________________________________________________________
+<descricao_anime> 
+
+Conteúdo completo em <a href="" alt="Wikipedia" target="_blank">Wikipedia</a>
+Conteúdo completo em <a href="" alt="MyAnimeList" target="_blank">MyAnimeList</a>
+______________________________________________________________________________________________________________________
+<personagens> Personagens Principais:
+
+________________________________________________________________________________________________________________________
+<series> 
+Titulo da Série: 
+Subtitulo ou Sinônimos: 
+Descrição e Enredo: 
+Numero de Episódio(s): 
+Duração do Episódio: 
+Início da Exibição: 
+Fim da Exibição: 
+Trailer: 
+
+<OVAs>
+Titulo da OVA: 
+Subtitulo ou Sinônimos:  
+Descrição e Enredo: 
+Numero de Episódio(s): 
+Duração do Episódio: 
+Início da Exibição: 
+Fim da Exibição: 
+Trailer: 
+
+<Especiais>
+Titulo do Especial: 
+Subtitulo ou Sinônimos: 
+Descrição e Enredo: 
+Numero de Episódio(s): 
+Duração do Episódio: 
+Início da Exibição: 
+Fim da Exibição: 
+Trailer: 
+
+<Filmes>
+Titulo do Filme(Anime): 
+Subtitulo ou Sinônimos:  
+Descrição e Enredo: 
+Duração: 
+Exibido: 
+Trailer: 
+
+<ONAs>
+Titulo da ONA: 
+Subtitulo ou Sinônimos:  
+Descrição e Enredo: 
+Numero de Episódio(s): 
+Duração do Episódio: 
+Início da Exibição: 
+Fim da Exibição: 
+Trailer: 

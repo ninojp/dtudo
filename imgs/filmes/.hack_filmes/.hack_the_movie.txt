@@ -1,0 +1,48 @@
+<nome>:
+
+.hack//The Movie
+
+<nome_complete>:
+
+japonês: ド ッ ト ハ ッ ク セ カ イ の 向 こ う に
+Hepburn: Dotto Hakku Sekai no Mukō ni
+lit. hack//Beyond The World
+
+<genero>:
+
+Aventura, Fantasia, Ficção, Game
+
+descricao:
+
+Filme (Animação) - .hack//The Movie -  .hack//O filme: (112 min) - 21/01/2012
+ .hack//The Movie (japonês:ド ッ ト ハ ッ ク セ カ イ の 向 こ う に, Hepburn: Dotto Hakku Sekai no Mukō ni, lit. hack//Beyond The World): 
+ É um anime CGI japonês de 2012 escrito por Kazunori Ito e dirigido por Hiroshi Matsuyama. Foi lançado em 21 de janeiro de 2012 nos cinemas e foi lançado em DVD/Blu-ray em 28 de junho de 2012. O lançamento em Blu-ray é um disco"híbrido" do PlayStation 3 que inclui o filme e um jogo de luta chamado .hack // Versus.
+
+Enredo:
+A história, que se passa em 2024, segue a vida de Sora Yuki, uma garota de 14 anos persuadida por seus amigos a jogar o popular jogo "The World". Devido a um incidente no mundo, as anomalias começam a ocorrer no mundo real.
+Conteúdo completo em <a href="https://en.wikipedia.org/wiki/.hack//The_Movie" alt="Wikipedia" target="_blank">Wikipedia</a>
+
+<data>:
+
+Lançamento: .hack//The Movie: 21 de Janeiro de 2012
+Duração: 1 hora e 52 minutos
+
+
+<series>:
+
+<a href="https://localhost/dtudo/anime_detalhes.php?id=122">
+<p>.Hack - Série, OVAs</p>
+</a>
+<a href="https://localhost/dtudo/filme_detalhes.php?id=1">
+.hack//G.U. Trilogy - Link para o Filme </a>
+
+<elenco> /personagem:
+
+Sora Yuuki, Takefu Yuuki, Okano Tomohiko, Tanaka Kakeru, Aura, Elenor, David Steinberg
+
+<direção>
+
+Hiroshi Matsuyama
+
+Nota:
+8.5

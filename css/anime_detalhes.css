@@ -1,0 +1,105 @@
+#grid-cont_anime-detalhes { /* GRID CONTEINER */
+    display: grid;
+    grid-template-areas:  'header header'
+                         'temporadas temporadas'
+							'ovas ovas'
+                            'imgs imgs'
+                        'descricao descricao'
+                          'elenco direcao'
+                          'rodape rodape';
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto auto auto auto auto auto auto;
+    max-width: 1300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-items: space-evenly;
+}
+#header_animes_detalhes { /* GRID ITEM header */
+    grid-area: header;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    max-height: auto;
+	margin-top: 30px;
+}
+/*  #main-anime_detalhes {
+    
+} */
+#grid-item_temporadas { /*  SECTION GRID ITEM TEMPORADAS */
+/*    display: grid;*/
+    grid-area: temporadas;
+    width: auto;
+    height: auto;
+}
+#grid-item_ovas { /*  SECTION GRID ITEM OVAS */
+/*    display: grid;*/
+    grid-area: ovas;
+    width: auto;
+    height: auto;
+}
+#anime-detalhes_ovas {
+    display: grid;
+}
+#anime-detalhes_filmes {
+    display: grid;
+}
+
+#grid-item_imgs {  /* SECTION GRID ITEM IMGS */
+    display: flex;
+    grid-area: imgs;
+    width: 100%;
+    height: auto;
+    justify-content: space-between;
+    justify-items: center;
+
+}
+#div_oculta_foto1 {
+    display: none;
+}
+.div_imgs_detal {
+    display: flex;
+    justify-self: space-evenly;
+}
+.img_detalhes {
+    display: flex;
+    width: 250px;
+    height: 350px;
+}
+
+#section_descricao { /*  SECTION GRID ITEM DESCRICAO */
+    display: grid;
+    grid-area: descricao;
+    width: auto;
+    height: auto;
+}
+#descricao_enredo {
+    display: grid;
+}
+
+#elenco_nota { /*  SECTION GRID ITEM ELENCO e NOTA */
+    display: grid;
+    grid-area: elenco;
+}
+.divs_detals {
+    display: grid;
+    justify-content: center;
+}
+
+#direcao_gostei { /*  SECTION GRID ITEM DIRECAO e GOSTEI */
+    display: grid;
+    grid-area: direcao;
+}
+#footer_rodape {
+    grid-area: rodape;
+
+}
+fieldset .fieldset_anime_detalhes {
+	
+}
+
