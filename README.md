@@ -1,4 +1,4 @@
-# dtudo - Cripto Ativos - Animação(banco de dados pessoal) - Musica - e Informação sobre T.I
+# Site Dtudo - Cripto Ativos - Animação - Musica - Informação sobre T.I
 Este é um projeto PESSOAL para meu próprio aprendiizado em em HTML5, CSS, JavaScript e PHP
 
 A idéia era falar sobre estes assuntos de meu interesse pessoal, mas ao desenvolver percebi que o projeto era muito audacioso. 
